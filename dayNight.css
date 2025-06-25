@@ -1,0 +1,20 @@
+body {
+    background-color: yellow;;
+    text-align: center;
+    color : darkblue;
+}
+
+.night {
+    background-color: black;
+    color : white;
+}
+
+div {
+    display : flex;
+    justify-content : end;
+}
+
+button {
+    margin-left: 95%;
+    cursor: pointer;
+}
